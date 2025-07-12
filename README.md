@@ -30,7 +30,7 @@ password-cracker/
 │   ├── sha1cracker.py
 │   ├── md5cracker.py
 │   └── smartcracker.py
-├── cracker/
+├── data/
 │   ├── wordlist.txt
 │   └── hashes.txt
 ├── utils/
