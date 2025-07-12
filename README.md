@@ -1,4 +1,4 @@
-# 🔐 Smart Password Cracker
+# 🔐 Password Cracker
 
 > A Python-based ethical password cracker that supports **SHA-256**, **SHA-1**, **MD5**, and even **mixed hash dumps** using smart detection.
 
