@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+env/
+ENV/
+*.env
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Jupyter (if ever used)
+.ipynb_checkpoints
+
+# Results
+results.csv
+
+# Logs and reports
+*.log
+
+# Dependency files
+*.egg-info/
+dist/
+build/
+
+# System files
+*.bak
+*.swp
+*.swo
